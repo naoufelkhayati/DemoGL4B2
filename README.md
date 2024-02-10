@@ -4,4 +4,4 @@ Welcome to my Readme file
 
 First change after cloning.
 
-I rectified the prévious line (ENISo)
+I rectified the previous line (ENISo) ---
