@@ -2,4 +2,6 @@
 
 Welcome to my Readme file
 
-First change afet cloning
+First change after cloning.
+
+I rectified the prévious line (ENISo)
